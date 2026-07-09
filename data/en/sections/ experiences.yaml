@@ -1,0 +1,104 @@
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: Timone Institute of Neuroscience (INT, CNRS UMR7289)
+    url: "https://www.int.univ-amu.fr/"
+    location: Aix-Marseille University, 13005, Marseille, France
+    logo: /images/education/INT.png
+  
+  team:
+    name: MeCA research group
+    url: "https://meca-brain.org/"
+  
+  positions:
+  - designation: Ph.D. Student
+    start: Oct 2025
+    responsibilitiesTitle: Topological and geometric characterization of cortical folding during perinatal development
+    responsibilities:
+      - Identifying and characterizing conserved and stable sulcal patterns
+      - Studying cortical folding during early human brain development
+      - Developing quantitative, parametric, and statistical analysis methods
+  
+  - designation: Teaching assistant
+    start: Jan 2026
+    end: Jun 2026 (20 h)
+    responsibilitiesTitle: Environmental and societal impacts of digital technologies, B.Sc. in mathematics and computer science, year 3
+    responsibilities:
+      - Introducing Python programming fundamentals
+      - Teaching data analysis and visualization techniques
+      - Supervising practical sessions and grading examinations
+  
+  - designation: Intern
+    start: Feb 2025
+    end: Jul 2025
+    responsibilitiesTitle: Surface registration for brain development analysis
+    responsibilities:
+      - Exploring the [MSM](https://fsl.fmrib.ox.ac.uk/fsl/docs/registration/msm.html) method for surface registration
+      - Optimizing registration parameters on fetal brain data
+      - Visualizing and statistically analyzing results to validate the method
+
+- company:
+    name: Laboratory of Biometry and Evolutionary Biology (LBBE, CNRS UMR5558)
+    url: "https://lbbe.univ-lyon1.fr"
+    location: Claude Bernard Lyon 1 University, 69622, Villeurbanne, France
+    logo: /images/education/LBBE.png
+  
+  team:
+    name: Computing services
+    url: "https://lbbe.univ-lyon1.fr/fr/pole-informatique"
+  
+  positions:
+  - designation: Intern
+    start: Oct 2024
+    end: Jan 2025
+    responsibilitiesTitle: Development of a probabilistic model to predict genomic binding of the retinoic acid receptor (RAR) from ChIP-seq data
+    responsibilities:
+      - Improving an existing Poisson regression model using deep learning
+      - Testing alternative model formulations and integrating new RAR motifs
+      - Exploring clustering approaches
+
+- company:
+    name: National Institute for Research in Digital Science and Technology (INRIA), Lyon centre
+    url: "https://www.inria.fr/fr/centre-inria-de-lyon"
+    location: La Doua Campus, 69622, Villeurbanne, France
+    logo: /images/education/inria.png
+  
+  team:
+    name: AIstroSight research group
+    url: "https://team.inria.fr/aistrosight/"
+  
+  positions:
+  - designation: Intern
+    start: Apr 2022
+    end: Jul 2024 (2 internships)
+    responsibilitiesTitle: Designing a database for 3D cell meshes and reconstruction data and developing an open-access website for reaction-diffusion simulations
+    responsibilities:
+      - Conducting literature reviews, collecting, and modeling data
+      - Designing a document-oriented NoSQL database
+      - Creating a web application following FAIR and open data principles
+
+- company:
+    name: Paris-Saclay Institute of Neuroscience (NeuroPSI, CNRS UMR9197)
+    url: "https://neuropsi.cnrs.fr"
+    location: CEA Saclay Campus, 91400, Saclay, France
+    logo: /images/education/psi.png
+  
+  team:
+    name: Neuroinformatics research group
+    url: "https://neuropsi.cnrs.fr/en/group-leader-andrew-davison/"
+  
+  positions:
+  - designation: Intern
+    start: Jun 2021
+    end: Aug 2021
+    responsibilitiesTitle: Annotation and in-depth analysis of electrophysiology datasets for reuse within the [EBRAINS data knowledge graph](https://search.kg.ebrains.eu)
+    responsibilities:
+      - Analyzing and visualizing data to assess article reproducibility and dataset reuse
+      - Developing Python [notebooks](https://wiki.ebrains.eu/) for data annotation
+      - Using the Elephant and Neo packages

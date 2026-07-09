@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Ph.D. in Computational Neuroscience
+  icon: fa-microscope
+  timeframe: 2025 - Present
+  institution:
+    name: Aix-Marseille Université
+    url: "https://www.univ-amu.fr"
+    logo: /images/education/amu.png # Path of the logo image
+  customSections: #(optional)
+    - name: Thesis
+      content: Topological and geometric characterization of cortical folding during perinataldevelopment.
+      url: "https://theses.fr/s427816"
+    - name: Doctoral School
+      content: Mathematics and Computer Science of Marseille (ED 184)
+      url: "https://ecole-doctorale-184.univ-amu.fr"
+- name: M.Sc. in Molecular Bioinformatics
+  icon: fa-graduation-cap
+  timeframe: 2022-2025
+  institution:
+    name: Claude Bernard University Lyon 1
+    url: "https://www.univ-lyon1.fr"
+    logo: /images/education/lyon1.png # Path of the logo image
+  customSections: #(optional)
+    - name: Specialization
+      content: Methods and Analysis
+      url: "https://www.bioinfo-lyon.fr/"
+- name: B.Sc. in Life Sciences and Biology
+  icon: fa-university
+  timeframe: 2020-2022
+  institution:
+    name: Claude Bernard University Lyon 1
+    url: "https://www.univ-lyon1.fr"
+    logo: /images/education/lyon1.png # Path of the logo image
+  customSections: #(optional)
+    - name: Specialization
+      content: Human and Animal Physiology
+- name: Two-year university degree in technology (DUT), Biological Engineering
+  icon: fa-school
+  timeframe: 2018-2020
+  institution:
+    name: Clermont Auvergne University, Simone Veil Campus
+    url: "https://www.uca.fr/formation/nos-formations/par-ufr-ecoles-et-iut/iut-clermont-auvergne/but/but-genie-biologique-aurillac"
+    logo: /images/education/UCA.png # Path of the logo image
+  customSections: #(optional)
+    - name: Specialization
+      content: Bioinformatics

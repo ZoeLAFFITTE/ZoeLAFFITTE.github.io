@@ -1,0 +1,130 @@
+baseURL = "https://zoelw.org/"
+title = "Zoe LW's Blog"
+theme = "toha"
+
+# Manage languages
+defaultContentLanguage = "en"
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    locale = "en-US"
+    weight = 1
+
+  [languages.fr]
+    languageName = "Français"
+    locale = "fr-FR"
+    weight = 2
+
+[module]
+
+  [module.hugoVersion]
+    min = "0.163.0"
+    extended = true
+
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    source = "i18n"
+    target = "i18n"
+
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+
+  [[module.mounts]]
+    source = "../../node_modules/flag-icons/flags"
+    target = "static/flags"
+
+  [[module.mounts]]
+    source = "../../node_modules/@fontsource/mulish/files"
+    target = "static/files"
+
+  [[module.mounts]]
+    source = "../../node_modules/katex/dist/fonts"
+    target = "static/fonts"
+
+# Force a locale to be use, really useful to develop the application !
+
+# Allow raw html in markdown file
+
+[markup]
+
+  [markup.goldmark]
+
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false
+
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+
+[outputs]
+
+  home = ["HTML", "RSS", "JSON"]
+
+
+# Enable global emoji support
+
+enableEmoji = true
+
+
+# Site parameters
+
+[params]
+
+  # GitHub repo URL of your site
+  gitRepo = "https://github.com/ZoeLAFFITTE"
+
+
+  [params.features]
+
+    # Enable portfolio section
+    [params.features.portfolio]
+      enable = true
+
+
+    # Enable blog posts
+    [params.features.blog]
+      enable = true
+
+
+    # Enable Table of contents in reading page
+    [params.features.toc]
+      enable = true
+    
+    [params.features.darkMode]
+        enable = true
+    [params.logo]
+        main = "images/site/logo.png"
+        inverted = "images/site/logo.png"
+        favicon = "images/site/favicon.png"
+
+  # Configure footer
+
+  [params.footer]
+    enable = true

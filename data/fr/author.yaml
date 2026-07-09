@@ -1,0 +1,19 @@
+# some information about you
+name: "Zoe LW"
+nickname: "Zoe"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Salut, je suis"
+#photo
+image: "images/author/zoeLaffitte.jpg"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "zoe.laffitte@univ-amu.fr"
+  github: zoeLaffitte
+  linkedin: zoë-laffitte-b41210226
+
+summary:
+  - Je suis doctorante en neurosciences computationnelles
+  - J'aime coder, modéliser et analyser la complexité du vivant
+  - Je crois que la science est meilleure lorsqu'elle est ouverte et reproductible
+  - J'aime travailler sur des projets stimulants et innovants

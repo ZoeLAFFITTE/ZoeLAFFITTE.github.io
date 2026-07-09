@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Zoe LW&#39;s Blog</title>
+    <link>http://localhost:1313/fr/posts/</link>
+    <description>Recent content in Articles on Zoe LW&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OHBM 2026</title>
+      <link>http://localhost:1313/fr/posts/ohbm_2026/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/posts/ohbm_2026/</guid>
+      <description>&lt;h2 id=&#34;résumé&#34;&gt;Résumé&lt;/h2&gt;
+&lt;img src=&#34;http://localhost:1313/images/posts/ohbm.jpg&#34;
+    
+        alt=&#34;conf&#34;
+    
+    
+        width=&#34;400&#34;
+    
+    
+        height=&#34;250&#34;
+    
+    
+        style=&#34;float: right;&#34;
+    
+    
+&gt;
+
+&lt;p&gt;L&amp;rsquo;équipe MeCA a eu l&amp;rsquo;opportunité de participer à la 32ᵉ édition du congrès annuel de l&amp;rsquo;Organization for Human Brain Mapping (OHBM), qui s&amp;rsquo;est tenue à Bordeaux, en France, du 14 au 18 juin 2026.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;y ai présenté un poster portant sur le travail réalisé au cours de mon stage de Master, consacré à l&amp;rsquo;amélioration du recalage MSM des surfaces corticales néonatales. J&amp;rsquo;ai analysé les erreurs de recalage liées aux paramètres par défaut de MSM, puis proposé une configuration optimisée pour un meilleur alignement des surfaces cérébrales néonatales.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

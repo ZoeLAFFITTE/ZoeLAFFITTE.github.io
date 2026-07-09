@@ -1,0 +1,104 @@
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: Institut de Neurosciences de la Timone (INT, CNRS UMR7289)
+    url: "https://www.int.univ-amu.fr/"
+    location: Aix-Marseille Université, 13005, Marseille, France
+    logo: /images/education/INT.png
+  
+  team:
+    name: Équipe MeCA
+    url: "https://meca-brain.org/"
+  
+  positions:
+  - designation: Doctorante
+    start: Oct 2025
+    responsibilitiesTitle: Caractérisation topologique et géométrique du plissement cortical durant le développement périnatal
+    responsibilities:
+      - Identification et caractérisation des motifs sulcaux conservés et stables
+      - Étude du plissement cortical durant le développement précoce du cerveau humain
+      - Développement de méthodes d'analyse quantitatives, paramétriques et statistiques
+  
+  - designation: Chargée de travaux pratiques (vacataire)
+    start: Jan 2026
+    end: Juin 2026 (20 h)
+    responsibilitiesTitle: Impacts environnementaux et sociétaux du numérique, licence 3 Mathématiques-Informatique
+    responsibilities:
+      - Introduction aux fondamentaux de la programmation Python
+      - Enseignement de l'analyse et de la visualisation de données
+      - Encadrement des travaux pratiques et évaluation des examens
+  
+  - designation: Stagiaire
+    start: Fév 2025
+    end: Juil 2025
+    responsibilitiesTitle: Recalage surfacique pour l'analyse du développement cérébral
+    responsibilities:
+      - Exploration de la méthode [MSM](https://fsl.fmrib.ox.ac.uk/fsl/docs/registration/msm.html) pour le recalage de surfaces corticales
+      - Optimisation des paramètres de recalage dans un contexte néonatal
+      - Visualisation et analyse statistique des résultats pour valider la méthode
+
+- company:
+    name: Laboratoire de Biométrie et Biologie Évolutive (LBBE, CNRS UMR5558)
+    url: "https://lbbe.univ-lyon1.fr"
+    location: Université Claude Bernard Lyon 1, 69622, Villeurbanne, France
+    logo: /images/education/LBBE.png
+  
+  team:
+    name: Pôle informatique
+    url: "https://lbbe.univ-lyon1.fr/fr/pole-informatique"
+  
+  positions:
+  - designation: Stagiaire
+    start: Oct 2024
+    end: Jan 2025
+    responsibilitiesTitle: Développement d'un modèle probabiliste pour prédire la liaison génomique du récepteur de l'acide rétinoïque (RAR) à partir de données ChIP-seq
+    responsibilities:
+      - Amélioration d'un modèle de régression de Poisson existant avec des approches de deep learning
+      - Test de différentes formulations du modèle et intégration de nouveaux motifs RAR
+      - Exploration d'approches de clustering
+
+- company:
+    name: Institut national de recherche en sciences et technologies du numérique (INRIA), centre de Lyon
+    url: "https://www.inria.fr/fr/centre-inria-de-lyon"
+    location: Campus de la Doua, 69622, Villeurbanne, France
+    logo: /images/education/inria.png
+  
+  team:
+    name: Équipe AIstroSight
+    url: "https://team.inria.fr/aistrosight/"
+  
+  positions:
+  - designation: Stagiaire
+    start: Avr 2022
+    end: Juil 2024 (2 stages)
+    responsibilitiesTitle: Conception d'une base de données pour des maillages cellulaires 3D et des données de reconstruction, et développement d'un site web en accès libre pour des simulations de réaction-diffusion
+    responsibilities:
+      - Recherche bibliographique, collecte et modélisation de données
+      - Conception d'une base de données NoSQL orientée document
+      - Création d'une application web suivant les principes FAIR et de l'Open Data
+
+- company:
+    name: Institut des Neurosciences Paris-Saclay (NeuroPSI, CNRS UMR9197)
+    url: "https://neuropsi.cnrs.fr"
+    location: Campus CEA Saclay, 91400, Saclay, France
+    logo: /images/education/psi.png
+  
+  team:
+    name: Équipe Neuroinformatique
+    url: "https://neuropsi.cnrs.fr/en/group-leader-andrew-davison/"
+  
+  positions:
+  - designation: Stagiaire
+    start: Juin 2021
+    end: Août 2021
+    responsibilitiesTitle: Annotation et analyse approfondie de jeux de données d'électrophysiologie pour leur réutilisation dans le [EBRAINS data knowledge graph](https://search.kg.ebrains.eu)
+    responsibilities:
+      - Analyse et visualisation de données pour évaluer la reproductibilité des articles et la réutilisation des jeux de données
+      - Développement de [notebooks Python](https://wiki.ebrains.eu/) pour l'annotation des données
+      - Utilisation des bibliothèques Elephant et Neo

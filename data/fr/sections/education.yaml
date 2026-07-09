@@ -1,0 +1,63 @@
+# Informations de la section
+section:
+  name: Formation
+  id: education
+  template: sections/education.html # Utiliser "sections/education-alt.html" pour le modèle alternatif.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # hideTitle: true
+
+degrees:
+- name: Doctorat en neurosciences computationnelles
+  icon: fa-microscope
+  timeframe: 2025 - Aujourd'hui
+  institution:
+    name: Aix-Marseille Université
+    url: "https://www.univ-amu.fr"
+    logo: /images/education/amu.png
+
+  customSections:
+    - name: Thèse
+      content: Caractérisation topologique et géométrique du plissement cortical au cours du développement périnatal.
+      url: "https://theses.fr/s427816"
+    - name: École doctorale
+      content: Mathématiques et Informatique de Marseille (ED 184)
+      url: "https://ecole-doctorale-184.univ-amu.fr"
+
+- name: Master en bioinformatique moléculaire
+  icon: fa-graduation-cap
+  timeframe: 2022-2025
+  institution:
+    name: Université Claude Bernard Lyon 1
+    url: "https://www.univ-lyon1.fr"
+    logo: /images/education/lyon1.png
+
+  customSections:
+    - name: Spécialisation
+      content: Méthodes et analyses
+      url: "https://www.bioinfo-lyon.fr/"
+
+- name: Licence en sciences de la vie
+  icon: fa-university
+  timeframe: 2020-2022
+  institution:
+    name: Université Claude Bernard Lyon 1
+    url: "https://www.univ-lyon1.fr"
+    logo: /images/education/lyon1.png
+
+  customSections:
+    - name: Spécialisation
+      content: Physiologie humaine et animale
+
+- name: Diplôme universitaire de technologie (DUT) en Génie biologique
+  icon: fa-school
+  timeframe: 2018-2020
+  institution:
+    name: Université Clermont Auvergne, Campus Simone Veil
+    url: "https://www.uca.fr/formation/nos-formations/par-ufr-ecoles-et-iut/iut-clermont-auvergne/but/but-genie-biologique-aurillac"
+    logo: /images/education/UCA.png
+
+  customSections:
+    - name: Spécialisation
+      content: Bioinformatique

@@ -1,0 +1,20 @@
+# some information about you
+name: "Zoe LW"
+nickname: "Zoe"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+#photo
+image: "images/author/zoeLaffitte.jpg"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "zoe.laffitte@univ-amu.fr"
+  github: zoeLaffitte
+  linkedin: zoë-laffitte-b41210226
+
+# some summary about what you do
+summary:
+  - I am a Ph.D. student
+  - I enjoy coding, modelling, and analyzing biological complexity
+  - I believe science is better when it is open and reproducible
+  - I love to work with some fun projects

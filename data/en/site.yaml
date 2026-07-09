@@ -1,0 +1,10 @@
+# Copyright Notice
+copyright: © 2026 Copyright.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Zoe LW's Blog
+  type: website
+  description: Portfolio and personal blog of Zoe LW.
+  image: images/author/zoeLaffitte.jpg
+  url: https://ZoeLAFFITTE.github.io/

@@ -1,0 +1,44 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: PhD Student
+company:
+  name: Institut de Neurosciences de la Timone (INT, CNRS UMR7289)
+  location: Aix-Marseille Université, 13005, Marseille, France
+  url: "https://www.int.univ-amu.fr/"
+team:
+  name: Methods and Computational Anatomy (MeCA)
+  url: https://meca-brain.org/
+
+resume: "files/CV_Zoe_Laffitte.pdf"
+
+summary: |
+ I am a PhD student at the Institut de Neurosciences de la Timone (INT) in Marseille, France.
+ My research focuses on the spatial organisation and co-variation of cortical folds during human neonatal brain development. More specifically, I aim to identify conserved and reproducible sulcal landmarks and model their developmental trajectories. These landmarks provide robust references for studying cortical maturation in healthy and pathological contexts and contribute to defining quantitative markers of brain development. I use geometric and topological approaches on 3D-reconstructed cortical surfaces derived from MRI data.
+
+socialLinks:
+  - name: Email
+    icon: fa fa-envelope
+    url: "mailto:zoe.laffitte@univ-amu.fr"
+  - name: Github
+    icon: fa-brands fa-github
+    url: "https://github.com/ZoeLAFFITTE"
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin
+    url: "https://linkedin.com/in/zoë-laffitte-b41210226"
+
+interestsTitle: Research interests
+interests:
+  - Brain development
+  - Cortical folding
+  - Topology & geometry
+  - Multimodal & interdisciplinary approaches
+  - Statistical & parametric methods
+  - Open science
+  - Reproducibility
+  - Ethics & integrity

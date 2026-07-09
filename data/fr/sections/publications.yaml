@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Registration
+  filter: "registration"
+- name: Brain development
+  filter: "brain-development"
+# your publications
+publications:
+- title: Optimizing MSM registration parameters fixes local minima issues on the dHCP database
+  publishedIn:
+    name: Annual Meeting of the Organization for Human Brain Mapping (OHBM), Bordeaux, France
+    date: 14-18 June 2026
+    url: https://humanbrainmapping.org
+  authors:
+  - name: Zoé Laffitte
+  - name: Guillaume Auzias
+    url: https://scholar.google.fr/citations?user=G7HXiuwAAAAJ&hl=fr
+  - name: Julien Lefevre
+    url: https://scholar.google.com/citations?user=WtcJFNIAAAAJ&hl=fr
+  - name: Olivier Coulon
+    url: https://scholar.google.com/citations?user=Tg8q9QgAAAAJ&hl=fr
+  paper:
+    #pdf:
+    #  url: /files/paper.pdf
+    poster:
+      url: /files/poster_ohbm.pdf
+    abstract:
+      url: /files/abstract_ohbm.pdf
+    citation:
+      url: https://doi.org/10.5281/zenodo.20817576
+    #journal:
+    #  url: https://doi.org/xxxxx
+    git:
+      url: https://github.com/ZoeLAFFITTE/MSM_opt_params_neonatal
+    url: /fr/posts/ohbm_2026
+  categories: ["registration","brain-development"]
+  tags: ["MRI", "neonatal brain development", "dHCP", "cortical surface registration", "MSM"]

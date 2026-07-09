@@ -1,0 +1,45 @@
+section:
+  name: À propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Doctorante
+company:
+  name: Institut de Neurosciences de la Timone (INT, CNRS UMR7289)
+  location: Aix-Marseille Université, 13005, Marseille, France
+  url: "https://www.int.univ-amu.fr/"
+team:
+  name: Methods and Computational Anatomy (MeCA)
+  url: https://meca-brain.org/
+
+
+resume: "files/CV_Zoe_Laffitte.pdf"
+
+summary: |
+  Je suis doctorante à l’Institut de Neurosciences de la Timone (INT) à Marseille, France.
+  Mes recherches portent sur l’organisation spatiale et la co-variation des plis corticaux au cours du développement cérébral néonatal humain. Plus précisément, je cherche à identifier des motifs du plissement cortical conservés et reproductibles, ainsi qu’à modéliser leurs trajectoires développementales. Ces repères anatomiques fournissent des références robustes pour l’étude de la maturation corticale dans des contextes sains et pathologiques et contribuent à définir des marqueurs quantitatifs du développement cérébral. J’utilise des approches géométriques et topologiques appliquées à des surfaces corticales 3D reconstruites à partir de données IRM.
+
+socialLinks:
+  - name: Email
+    icon: fa fa-envelope
+    url: "mailto:zoe.laffitte@univ-amu.fr"
+  - name: Github
+    icon: fa-brands fa-github
+    url: "https://github.com/ZoeLAFFITTE"
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin
+    url: "https://linkedin.com/in/zoë-laffitte-b41210226"
+
+interestsTitle: Centres d'intérêt
+interests:
+  - Développement cérébral
+  - Plissement cortical
+  - Topologie et géométrie
+  - Approches multimodales & interdisciplinaires
+  - Méthodes statistiques & paramétriques
+  - Science ouverte
+  - Reproductibilité
+  - Éthique & intégrité scientifique
