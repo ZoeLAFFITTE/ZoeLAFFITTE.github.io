@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Zoe LW's Blog</title><link>https://zoelaffitte.github.io/posts/</link><description>Recent content in Posts on Zoe LW's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://zoelaffitte.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>OHBM 2026</title><link>https://zoelaffitte.github.io/posts/ohbm_2026/</link><pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate><guid>https://zoelaffitte.github.io/posts/ohbm_2026/</guid><description>&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://zoelaffitte.github.io/images/posts/ohbm.jpg"
+alt="conf"
+width="400"
+height="250"
+style="float: right;"
+&gt;
+The MeCA team had the opportunity to attend the 32nd Annual Meeting of the Organization for Human Brain Mapping (OHBM), held in Bordeaux, France, from June 14 to June 18, 2026.&lt;/p&gt;
+&lt;p&gt;I presented a poster based on my Master&amp;rsquo;s final-year internship project, which focused on improving neonatal cortical surface registration. This work studied registration failures related to default MSM parameter settings and proposed optimized parameters for better alignment of neonatal brain surfaces.
+The optimized parameters and code are available on &lt;a href="https://github.com/ZoeLAFFITTE/MSM_opt_params_neonatal" target="_blank" rel="noopener"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
